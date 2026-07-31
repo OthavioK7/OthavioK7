@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:3B82F6&height=220&section=header&text=Otávio%20Kauan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20em%20Forma%C3%A7%C3%A3o&descAlignY=55&descSize=18"/>
-
-
 </div>
 
 # 👋 Olá!
