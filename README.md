@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:3B82F6&height=220&section=header&text=Otávio%20Kauan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20em%20Forma%C3%A7%C3%A3o&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Técnico+em+Desenvolvimento+de+Sistemas;Buscando+Estágio+ou+Vaga+Júnior;Sempre+aprendendo+novas+tecnologias"/>
 
 </div>
 
@@ -41,21 +40,9 @@ Tenho interesse principalmente em desenvolvimento de software, desenvolvimento w
 - JavaScript
 - Python
 - Boas práticas de programação
-
 ---
 
-# 📈 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
 ---
-
 # 🎯 Objetivo
 
 📌 Conseguir minha primeira oportunidade na área de desenvolvimento, aprender com profissionais experientes e crescer como desenvolvedor.
